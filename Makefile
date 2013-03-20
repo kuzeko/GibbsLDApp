@@ -1,3 +1,5 @@
+install: all
+
 all:
 	make -C src/ -f Makefile all
 
