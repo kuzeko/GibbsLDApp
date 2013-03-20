@@ -23,6 +23,9 @@
 
 #include <stdio.h>
 #include <string>
+#include <cstdlib>
+#include <cstring>
+#include <cstdio>
 #include <map>
 #include "strtokenizer.h"
 #include "utils.h"

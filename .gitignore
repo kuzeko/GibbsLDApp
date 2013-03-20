@@ -1,3 +1,6 @@
+# Custom Compiled binary
+src/lda
+
 # Compiled Object files
 *.slo
 *.lo
